@@ -8,7 +8,7 @@
 
 Cybersecurity student at Fisher College in Boston focused on building practical skills through hands-on security testing, vulnerability assessment, security research, and technical reporting.
 
-I combine academic study with independent penetration testing labs, professional cybersecurity experience, TryHackMe training, and technical projects. I am also a co-founder of AEXON, where I help develop cybersecurity methodology, reporting workflows, service concepts, and business strategy.
+I combine academic study with independent penetration testing labs, professional cybersecurity experience, TryHackMe training, and technical projects. I am also the CEO & co-founder of AEXON, where I help develop cybersecurity methodology, reporting workflows, service concepts, and business strategy.
 
 ---
 
