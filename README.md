@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="AlexCruzBanner.png" alt="Alexander Cruz Banner" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/alexander-cruz-m/alexander-portfolio/main/assets/images/AlexanderCruz-AEXON-Banner.png"
+    alt="Alexander Cruz | CEO of AEXON Group Technologies"
+    width="100%"
+  >
 </p>
 
 # Alexander Cruz
@@ -131,8 +135,8 @@ October 2024 – Present
 
 Support prospective students and families through campus tours, admissions events, communication, and student-facing activities.
 
-### Co-Founder
-**AEXON**  
+### CEO & Co-Founder
+**AEXON**
 2026 – Present
 
 Contribute to cybersecurity methodology, service development, reporting, client acquisition, business development, and technical strategy.
