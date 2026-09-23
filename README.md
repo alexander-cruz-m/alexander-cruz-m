@@ -52,10 +52,10 @@ I combine academic study with independent penetration testing labs, professional
 A portfolio documenting my cybersecurity experience, penetration testing projects, training, technical skills, and development work.
 
 **Repository:**  
-https://github.com/acmalexamder05-web/alexander-portfolio
+https://github.com/alexander-cruz-m
 
 **Live Site:**  
-https://acmalexamder05-web.github.io/alexander-portfolio/
+https://alexander-cruz-m.github.io/alexander-portfolio/
 
 ### AEXON Penetration Testing Series
 A structured series of authorized lab assessments designed to strengthen independent penetration testing methodology, evidence collection, risk analysis, remediation guidance, and professional reporting.
