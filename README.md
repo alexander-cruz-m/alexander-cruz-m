@@ -2,109 +2,154 @@
   <img src="AlexCruzBanner.png" alt="Alexander Cruz Banner" width="100%">
 </p>
 
-# 👋 Hello, I'm Alexander Cruz
+# Alexander Cruz
 
-## 💻 Web Developer | ✍️ Copywriter | 🔒 Cybersecurity Student
+**Cybersecurity Student | Penetration Testing | Vulnerability Assessment | Security Research**
 
-I’m passionate about building modern websites, writing persuasive copy, and continuously developing my cybersecurity skills. My goal is to create professional digital experiences that help businesses build trust and grow online.
+Cybersecurity student at Fisher College in Boston focused on building practical skills through hands-on security testing, vulnerability assessment, security research, and technical reporting.
 
----
-
-# 🚀 Featured Projects
-
-## 🌐 Portfolio Website
-A professional portfolio showcasing my work, skills, and services.
-
-🔗 Live Demo: https://acmalexamder05-web.github.io/alexander-portfolio/
-🔗 Repository: https://github.com/acmalexamder05-web/portfolio
+I combine academic study with independent penetration testing labs, professional cybersecurity experience, TryHackMe training, and technical projects. I am also a co-founder of AEXON, where I help develop cybersecurity methodology, reporting workflows, service concepts, and business strategy.
 
 ---
 
-## 🚗 Precision Auto Detailing
-A modern auto detailing website designed to showcase services and build customer trust.
+## Cybersecurity Focus
+
+- Penetration Testing
+- Vulnerability Assessment
+- Web Security
+- Reconnaissance & Enumeration
+- Security Research
+- Risk Analysis
+- Security Reporting
+- SOC / Blue Team Fundamentals
+- Social Engineering & Phishing Awareness
 
 ---
 
-## 💈 Elite Cuts
-A responsive website for a modern barbershop.
+## Tools & Technologies
 
----
+### Security
+- Kali Linux
+- Nmap
+- OWASP ZAP
+- TryHackMe
+- Windows Sysmon
+- TLS / HTTP Analysis
 
-## 🥊 Elite Boxing Gym
-A boxing gym website featuring memberships, classes, and contact information.
-
----
-
-# 🛠️ Skills & Technologies
-
-### Front-End Development
+### Development
 - HTML5
 - CSS3
-- Responsive Design
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
-### Copywriting
-- Website Copy
-- Sales Copy
-- Content Writing
-- Calls-to-Action (CTAs)
-
-### Cybersecurity
-- TryHackMe
-- Linux Fundamentals
-- Networking Basics
-- Web Security
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
----
-
-# 📚 Currently Learning
-
 - JavaScript
-- ASP.NET Core MVC
 - C#
-- SQL
-- Cybersecurity
-- TryHackMe
+- SQL / MySQL
+- Git & GitHub
 
 ---
 
+## Featured Work
 
-## 🎯 2026 Goals
+### Cybersecurity Portfolio
+A portfolio documenting my cybersecurity experience, penetration testing projects, training, technical skills, and development work.
 
-- 🚀 Land my first freelance client
-- 🌐 Build 10 professional websites
-- 🔒 Earn cybersecurity certifications
-- 💼 Secure a cybersecurity internship
-- 📈 Continue improving as a copywriter
+**Repository:**  
+https://github.com/acmalexamder05-web/alexander-portfolio
+
+**Live Site:**  
+https://acmalexamder05-web.github.io/alexander-portfolio/
+
+### AEXON Penetration Testing Series
+A structured series of authorized lab assessments designed to strengthen independent penetration testing methodology, evidence collection, risk analysis, remediation guidance, and professional reporting.
+
+- **AEXON-PT-001** — Completed
+- **AEXON-PT-002** — Completed
+- **AEXON-PT-003** — Planned
+
+Sanitized case studies will be added as they are prepared for public release.
+
+### Cybersecurity Compliance Internship
+Completed a summer 2026 cybersecurity compliance internship supporting vulnerability assessments, web security reviews, domain and IP analysis, TLS inspection, and security reporting.
+
+Highlights:
+- Approximately 10 security assessments
+- Approximately 15 domains reviewed
+- 5 IP addresses assessed
+- Approximately 12 security reports produced or supported
+
+### SecureLab
+A systems analysis and cybersecurity project centered on a deliberately vulnerable web application and a security dashboard for tracking assessments, findings, remediation, and reporting.
 
 ---
 
-## 🔥 Contribution Streak
+## Additional Development Projects
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=acmalexamder05-web&theme=github-dark-blue&hide_border=true"/>
-</p>
+### Precision Auto Detailing
+Responsive business website designed to present services, pricing, and customer-facing information.
 
-# 📫 Let's Connect
+### Elite Cuts Barbershop
+Responsive website developed for a modern barbershop concept.
 
-🌐 Portfolio Website https://acmalexamder05-web.github.io/alexander-portfolio/
-
-💼 LinkedIn https://www.linkedin.com/in/alexander-cruz-menendez-05330a2a9/
-
-📧 Email acmalexamder05@gmail.com
+### Elite Boxing Gym
+Responsive boxing gym website featuring classes, memberships, and business information.
 
 ---
-> "Building websites that inspire trust, writing words that persuade, and developing the skills to secure tomorrow's digital world."
+
+## Current Development
+
+I am currently focused on:
+
+- Advancing through TryHackMe's Jr Penetration Tester path
+- Strengthening password attack and authentication testing concepts
+- Expanding independent penetration testing methodology
+- Preparing additional AEXON-PT assessments
+- Developing SecureLab
+- Building stronger public cybersecurity case studies
+- Preparing for cybersecurity opportunities leading into 2027
+
+---
+
+## Education
+
+**Fisher College — Boston, Massachusetts**  
+Information & Technology: Cybersecurity  
+Expected Graduation: **May 2027**
+
+Relevant areas of study include networking, secure software development, information security and privacy, operating systems, programming, databases, and web development.
+
+---
+
+## Professional Experience
+
+### Cybersecurity Compliance Intern
+**Dakdan Worldwide / USA Entertainment Ventures**  
+June 2026 – August 2026
+
+Worked on vulnerability assessments, web security analysis, reconnaissance, TLS inspection, remediation guidance, and technical security reporting.
+
+### Student Ambassador
+**Fisher College**  
+October 2024 – Present
+
+Support prospective students and families through campus tours, admissions events, communication, and student-facing activities.
+
+### Co-Founder
+**AEXON**  
+2026 – Present
+
+Contribute to cybersecurity methodology, service development, reporting, client acquisition, business development, and technical strategy.
+
+---
+
+## Connect
+
+**LinkedIn:**  
+https://www.linkedin.com/in/alexander-cruz-m
+
+**Email:**  
+acmalexamder05@gmail.com
+
+**Portfolio:**  
+https://acmalexamder05-web.github.io/alexander-portfolio/
+
+---
+
+> Building practical cybersecurity skills through disciplined testing, continuous learning, and real technical experience.
